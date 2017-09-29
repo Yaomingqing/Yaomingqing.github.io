@@ -1,6 +1,5 @@
 ## Welcome to GitHub Pages
 
-#熊大！哈哈哈
 
 You can use the [editor on GitHub](https://github.com/Yaomingqing/Yaomingqing.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
